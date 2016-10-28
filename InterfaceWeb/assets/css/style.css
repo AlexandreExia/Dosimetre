@@ -1,0 +1,26 @@
+body {
+	
+	margin: 0;
+	background: #F9F9F9;
+}
+
+.container {
+
+	background: whitesmoke;
+    margin: 10px auto;
+}
+.title
+{
+	padding: 10px;
+    border: 1px solid #7E8F98;
+    background-color: rgb(144, 167, 177) !important;
+}
+
+.btn {
+	
+	background-color: #3498db !important;
+}
+
+.nav-wrapper {
+	background-color: #2980b9! important;
+}

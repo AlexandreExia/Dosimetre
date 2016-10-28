@@ -1,0 +1,4 @@
+PerlSetVar AuthFile .htpasswd
+AuthName "Authentification"
+AuthType Basic
+require valid-user
